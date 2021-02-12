@@ -17,7 +17,7 @@ The models learn to predict a song’s genre given its audio features, as well a
 **Release Date:** The date that the song was released
 **Duration:** The duration of the track (ms)
 
-![Examples of Audio Features for 'Someone Like You' by Adele, 'Suge' by DaBaby, and 'Für Elise' by Beethoven]('images/audio_features.png')
+![Examples of Audio Features for 'Someone Like You' by Adele, 'Suge' by DaBaby, and 'Für Elise' by Beethoven](images/audio_features.png)
 
 Since Spotify doesn't store genre information, I turned to The [Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify), an independent music genre project that utilized unsupervised learning techniques to identify new and unique genres of music (more of which can be read about [here](https://artists.spotify.com/blog/how-spotify-discovers-the-genres-of-tomorrow)), to generate the dataset of songs and their genre labels that were used to train various predictive models. 
 
