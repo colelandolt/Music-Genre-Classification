@@ -33,7 +33,7 @@ Another moderate correlation exists between danceability and valence, with a cor
 
 In exploring and comparing the differences in the distributions of the audio features of songs from each genre, it became apparent that each major genre, as described by the data, is unique in their own ways, and the combinations of their subjective features are mostly different from one another. The average audio feature representations for each genre are displayed in the mosaic plot below:
 
-![Mean Audio Features per genre](images/mosaic.png)
+![Mean Audio Features per genre](images/mosaicAudioFeatures.png)
 
 Pop songs are characterized as moderately danceable and energetic on average:
 
