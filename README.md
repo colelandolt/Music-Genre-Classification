@@ -7,14 +7,23 @@ This project aims to train various classification models on the audio features o
 The models learn to predict a song’s genre given its audio features, as well as other track-wise information, which were all collected from Spotify’s publicly available API database. Below are good examples of songs for their genres. It is clear that the audio features represent each differently.
 
 **Danceability:** How suitable a track is for dancing
+
 **Energy:** A perceptual measure of intensity and activity
+
 **Loudness:** The overall loudness of a track in decibels (dB)
+
 **Speechiness:** Represents the presence of spoken words in a track
+
 **Acousticness:** Confidence measure as to whether a song is acoustic
+
 **Instrumentalness:** Confidence measure as to whether a song contains no lyrics
+
 **Valence:** Represents the musical positiveness conveyed by a track
+
 **Tempo:** The overall estimated tempo of a track in beats per minute (BPM)
+
 **Release Date:** The date that the song was released
+
 **Duration:** The duration of the track (ms)
 
 ![Examples of Audio Features for 'Someone Like You' by Adele, 'Suge' by DaBaby, and 'Für Elise' by Beethoven](images/audio_features.png)
